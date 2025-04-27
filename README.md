@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on innovative hardware projects, technical research papers, and open-source RF toolkits.
 
-📫 Reach me at ushakiranmayi22@example.com or connect via [LinkedIn/GitHub link].
+📫 Reach me at https://www.linkedin.com/in/usha-kiranmayee2004/ 
 
 😄 Pronouns: She/Her
 
