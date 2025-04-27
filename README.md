@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ushakiranmayi22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @ushakiranmayi22
+
+👀 I’m passionate about wireless systems, antenna engineering, and next-gen communication technologies.
+
+🌱 I’m currently diving deep into compact MIMO designs, SDR (Software Defined Radio), and machine learning for RF applications.
+
+💞️ I’m looking to collaborate on innovative hardware projects, technical research papers, and open-source RF toolkits.
+
+📫 Reach me at ushakiranmayi22@example.com or connect via [LinkedIn/GitHub link].
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I love optimizing antenna performance almost as much as I love optimizing my coffee brew settings. ☕📡
+
+
 
 <!---
 ushakiranmayi22/ushakiranmayi22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
